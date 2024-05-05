@@ -22,6 +22,7 @@ lib-cov
 coverage
 *.lcov
 
+*.net-source
 # nyc test coverage
 .nyc_output
 
