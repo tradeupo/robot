@@ -1,4 +1,4 @@
-# Logs js new
+# Logs js
 logs
 *.log
 npm-debug.log*
