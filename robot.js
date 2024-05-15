@@ -25,7 +25,7 @@ coverage
 
 *.net-source
 # nyc test coverage
-.nyc_output
+.nyc_output 
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
