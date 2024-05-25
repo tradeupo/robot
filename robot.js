@@ -21,7 +21,7 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 *.lcov
-  
+   
 
 *.net-source 
 # nyc test coverage
